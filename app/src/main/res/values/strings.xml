@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrueCiteizenQuiz</string>
+    <string name="question_declaration">The (South African) Declaration of Independence was adopted in 1994</string>
+    <string name="todo">TODO</string>
+    <string name="next">True</string>
+    <string name="is_false">False</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_culture">Zulu is the most popular language in South Africa</string>
+    <string name="question_money">The default currency model for South Africa is ZAR</string>
+    <string name="question_monument">The Nelson Mandela Monument is located in Cape Town</string>
+    <string name="next_question">Next</string>
+</resources>
